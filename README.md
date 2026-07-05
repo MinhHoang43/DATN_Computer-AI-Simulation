@@ -222,18 +222,18 @@ Các file kết quả chính bao gồm:
 Tạo label và box boulding cho dataset YOLO Detection : 
 
 **Link dataset:** 
-- `https://app.roboflow.com/minh-hoang-nguyen-sd6ah/pcb_detection_yolo/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true` 
+- [Dataset YOLO Detection trên Roboflow](https://app.roboflow.com/minh-hoang-nguyen-sd6ah/pcb_detection_yolo/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true) 
 
 Dataset đầy đủ được lưu tại Google Drive:
 
 **Link dataset:**  
-- `dataset Detection original : https://drive.google.com/file/d/1hs-7suoL_j-hlvvkl3_FN_zDDER3LPXD/view?usp=sharing`
-- `dataset Classificatin original : https://drive.google.com/file/d/1vxPNlVzcbJImr6Ye1AIMW70LuZxU637T/view?usp=sharing`
-- `dataset Detectect + WGAN-GP : https://drive.google.com/file/d/18o4ocKOuWSi552JuA3A69XHT1U5mdXVH/view?usp=sharing`
-- `dataset Classificatin + WGAN-GP : https://drive.google.com/file/d/1QiZDep6uxXuiNA7sp7erJE7Ym2R8P-Gz/view?usp=sharing`
-- `dataset train GAN (class Missing_Resistor) : https://drive.google.com/file/d/1gI7ZqGyIXkTiJk2PKZ_drLfzBAhMVn3r/view?usp=sharing`
-- `dataset train GAN (class Missing_Capacitor) : https://drive.google.com/file/d/15Hd-TqaAbu7WLSaD_F6eb1M7iR9QFXLE/view?usp=sharing`
-- `dataset GAN sau khi sinh ảnh và lọc lấy ảnh có thể train : https://drive.google.com/drive/folders/1UJZyAO_MUhPnsN0Zu1mkJFoXOVowIgD0?usp=sharing`
+- [Dataset YOLO Detection gốc](https://drive.google.com/file/d/1hs-7suoL_j-hlvvkl3_FN_zDDER3LPXD/view?usp=sharing)
+- [Dataset YOLO Classification gốc](https://drive.google.com/file/d/1vxPNlVzcbJImr6Ye1AIMW70LuZxU637T/view?usp=sharing)
+- [Dataset YOLO Detection + WGAN-GP](https://drive.google.com/file/d/18o4ocKOuWSi552JuA3A69XHT1U5mdXVH/view?usp=sharing)
+- [Dataset YOLO Classification + WGAN-GP](https://drive.google.com/file/d/1QiZDep6uxXuiNA7sp7erJE7Ym2R8P-Gz/view?usp=sharing)
+- [Dataset train WGAN-GP cho lớp Missing_Resistor](https://drive.google.com/file/d/1gI7ZqGyIXkTiJk2PKZ_drLfzBAhMVn3r/view?usp=sharing)
+- [Dataset train WGAN-GP cho lớp Missing_Capacitor](https://drive.google.com/file/d/15Hd-TqaAbu7WLSaD_F6eb1M7iR9QFXLE/view?usp=sharing)
+- [Dataset ảnh sinh bởi WGAN-GP sau khi lọc để đưa vào train](https://drive.google.com/drive/folders/1UJZyAO_MUhPnsN0Zu1mkJFoXOVowIgD0?usp=sharing)
 
 Dataset gồm các lớp chính:
 
