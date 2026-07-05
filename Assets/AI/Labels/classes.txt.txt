@@ -1,0 +1,5 @@
+Missing CP2102
+Missing Capacitor
+Missing ESP32
+Missing Resistor
+Missing USB	
