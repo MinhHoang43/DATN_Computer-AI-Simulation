@@ -357,3 +357,8 @@ Mô phỏng Unity đã thể hiện được luồng kiểm tra và phân loại
 6. PCB được phân loại vào khay tương ứng.
 
 ---
+
+
+## Video demo
+
+- [Video demo mô phỏng hệ thống kiểm tra PCB](https://youtu.be/3bqB-Kqhzoo)
