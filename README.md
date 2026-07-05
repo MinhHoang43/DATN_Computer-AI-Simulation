@@ -361,4 +361,5 @@ Mô phỏng Unity đã thể hiện được luồng kiểm tra và phân loại
 
 ## Video demo
 
-- [Video demo mô phỏng hệ thống kiểm tra PCB](https://youtu.be/3bqB-Kqhzoo)
+**Video demo mô phỏng hệ thống kiểm tra PCB:**  
+https://youtu.be/3bqB-Kqhzoo
