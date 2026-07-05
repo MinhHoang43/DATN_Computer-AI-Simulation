@@ -17,6 +17,10 @@
 *.pidb
 *.booproj
 .vsconfig
+*.pt
+*.pth
+*.onnx
+*.zip
 
 # OS files
 .DS_Store
